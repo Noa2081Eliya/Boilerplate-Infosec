@@ -1,6 +1,6 @@
 # Information Security with HelmetJS
 
-# Boilerplate-Infosec
+# Boilerplate Infosec
 
 This is an educational project built as part of the **Information Security and Quality Assurance** course by **freeCodeCamp**.
 
